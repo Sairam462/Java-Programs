@@ -1,0 +1,27 @@
+package com.Company;
+
+import java.time.LocalDate;
+import java.time.LocalTime;
+public class Main {
+
+    public static void main(String[] args) {
+        double a=4.5;
+        double b=5.5;
+        double c=a+b;
+        double d=a-b;
+        double e=a*b;
+        double f=a/b;
+        double g=a%2;
+        System.out.println("Adition is "+c);
+        System.out.println("Subtraction is "+d);
+        System.out.println("Multiplication"+e);
+        System.out.println("Remainder is "+g);
+        System.out.println("Division is "+f);
+
+
+
+
+    }
+    }
+
+

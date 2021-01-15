@@ -1,0 +1,7 @@
+class Firstcode
+{
+   public Static void main(String arr[])
+   {
+	system.out.print("Hello World!!");
+   }
+}
