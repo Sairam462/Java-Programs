@@ -112,7 +112,7 @@ public class Bank {
 
                     }
                 case 5:
-                    System.out.println("Good Bye :)");
+                    System.out.println("Good Bye :))");
 
             }
         }
